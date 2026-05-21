@@ -7,9 +7,6 @@ Fatality Analysis Reporting System (FARS) 2022 Final Release – Fatal Motor Veh
 
 
 
-| Name | GitHub |
-|------|--------|
-| Elher Zemihret | [Ezemihret](https://github.com/CoenCardelli/CoenCardelli) |
 
 
 ## Dataset Description
